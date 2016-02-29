@@ -25,7 +25,7 @@ public class Paint {
 		uiComponent = new UIComponent(brush);
 		
 		
-		window = new JFrame("Çizici");
+		window = new JFrame("Paint");
 		panel = new JPanel();
 		
 		panel.setLayout(new FlowLayout(FlowLayout.LEFT, 0, 0));
